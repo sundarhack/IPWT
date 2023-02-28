@@ -1,0 +1,25 @@
+.label
+{
+    color:purple;
+    font-family: 'Times New Roman', Times, serif;
+    text-align: right;
+    font-weight: bolder;
+    font-style: italic;
+}
+#stu, #stu *
+{
+    border: solid black 1px;
+}
+#stu td:hover
+{
+    background-color: aquamarine;
+    color: red;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-weight: bolder;
+}
+#stu th { background-color: pink; }
+#stu th:nth-child(1) { width: 200px; }
+#stu th:nth-child(2) { width: 300px; }
+#stu th:nth-child(3) { width: 100px; }
+#stu th:nth-child(4) { width: 300px; }
+#stu th:nth-child(5) { width: 200px; }
