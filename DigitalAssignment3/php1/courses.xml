@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<Colleges>
+<College>
+<Title>VitVellore</Title>
+<Course1>B.Tech Cse spec in BioInformatics</Course1>
+<Course2>B.Tech Cse spec in IOT</Course2>
+<Course3>B.Tech Cse spec in Information Security</Course3>
+</College>
+<College>
+<Title>VitChennai</Title>
+<Course1>B.Tech Cse spec in Cyber Physical Systems</Course1>
+<Course2>B.Tech Cse spec in Artifical Intelligence and Robotics</Course2>
+<Course3>B.Tech Cse spec in AI and ML</Course3>
+</College>
+</Colleges>
